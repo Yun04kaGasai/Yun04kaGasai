@@ -1,2 +1,2 @@
-## Hi there 👋
-<img width="498" height="356" alt="tenor" src="https://github.com/user-attachments/assets/ac71e532-84e0-4c26-b100-b045f1458638" />
+# Hi there 👋
+<img width="1280" height="720" alt="e73959261f323ff47b86ca58b5ae92ed" src="https://github.com/user-attachments/assets/0077da03-3792-4c0a-a4a5-fa6c6fb7650c" />
